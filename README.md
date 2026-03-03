@@ -1,20 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<!--
-**Monoclocker/Monoclocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About me:
 
-Here are some ideas to get you started:
+Backend C# developer from 🇷🇺Russia 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚅 Backend is my main specialization
+- 🖌️Can take and complete some Frontend tasks
+- 💻 Learn Frontend...
+- 📱 ... and Mobile 
+- ❤️ In love with everyday learning
 
-<div id="header" align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjg2OXNvbWh3aW52MW5zMWF6a3A2MzN2bHoxZDAwNHU3bjRsd2h3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XRj99a68ZhhIrHReGc/giphy.gif" alt="hello"/>
-</div>
+### My magnum opus (Work in progress 😃)
+
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Monoclocker&repo=underwater-classification-system)](https://github.com/Monoclocker/underwater-classification-system)
